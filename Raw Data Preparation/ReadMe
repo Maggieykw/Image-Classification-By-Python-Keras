@@ -1,0 +1,5 @@
+File Description:
+1. QueryOfSQL           : SQL to extract image URL of product from private database
+2. query_result_All.csv : Excel File containing the above data without Adjustment (1st column: product name, other columns: image URL)
+3. query_result.xlsm    : Macro File to alter the data format inside "query_result_All.csv" (1st column: product name, 2nd column: image URL)
+4. query_result.csv     : Adjusted Excel file for image classification
